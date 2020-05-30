@@ -26,7 +26,6 @@ body {
 .navbar {
   display: flex;
   justify-content: space-around;
-  padding-bottom: 6rem;
 }
 .navbar a {
   text-decoration: none;
@@ -48,8 +47,11 @@ body {
 
 /* info section */
 .info {
+  padding-top: 7rem;
   text-align: center;
 }
 .info-heading {
   font-size: 3.5rem;
+  line-height: 4.5rem;
+  padding-bottom: 1rem;
 }
