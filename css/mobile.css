@@ -23,3 +23,63 @@
   display: block;
   /* text-align: left; */
 }
+
+/* Search */
+.search-container {
+  display: none;
+}
+
+body {
+  /* width: 2vw; */
+  font-size: 2vw;
+  /* overflow: hidden; */
+}
+
+/* Help section */
+.help-images {
+  width: 100%;
+  padding-bottom: 1.5rem;
+}
+
+/* Support section */
+.support-images {
+  display: block;
+  width: 100%;
+}
+.support-desc {
+  padding-bottom: 2rem;
+}
+/* Images */
+.tab {
+  height: 250px;
+  max-width: 400px;
+  width: 100%;
+}
+.banner {
+  height: 100px;
+  max-width: 340px;
+  width: 100%;
+}
+/* Software integration */
+.Software {
+  padding: 2rem;
+  position: none;
+}
+.grid-container {
+  width: 40rem;
+}
+
+.box-1,
+.box-3,
+.box-2,
+.box_1 {
+  justify-content: center;
+  align-items: center;
+}
+.tree {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  left: 0%;
+  bottom: 0%;
+}
