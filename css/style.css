@@ -76,6 +76,10 @@ body {
   /* background-color: #fefeff; */
 }
 
+span {
+  font-weight: bolder;
+}
+
 .bottom-line {
   border-bottom: 1px solid #888;
 }
