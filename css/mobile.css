@@ -23,7 +23,9 @@
   display: block;
   /* text-align: left; */
 }
-
+body{
+  /* overflow: hidden; */
+}
 /* Search */
 .search-container {
   display: none;
